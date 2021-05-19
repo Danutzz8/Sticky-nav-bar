@@ -63,7 +63,7 @@ body {
 
 .nav a.current,
 .nav a:hover {
-  color: rgb(231, 87, 87);
+  color: rgb(231, 87, 82);
   font-weight: bold;
 }
 
