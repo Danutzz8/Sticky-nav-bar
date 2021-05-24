@@ -1,3 +1,3 @@
 # Sticky-nav-bar
 
-Sticky nav bar that changes background on scroll
+Sticky nav bar that changes background on scroll mouse.
